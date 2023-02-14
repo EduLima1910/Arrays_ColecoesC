@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Array_Collections_C_CodigoInicio</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="bytebank_ATENDIMENTO\bytebank.Modelos\bytebank_ATENDIMENTO.csproj" />
+  </ItemGroup>
+
+</Project>
